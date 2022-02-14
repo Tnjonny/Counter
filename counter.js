@@ -1,1 +1,5 @@
-const num = 0;
+const count = 0;
+
+const value = document.querySelector("#value");
+const btns = document.querySelectorAll(".btn");
+
