@@ -1,0 +1,28 @@
+.container {
+    padding-top: 30vh;
+    display: grid;
+    place-items: center;
+    align-items: center;
+}
+
+.head {
+    font-size: 2rem;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+}
+    
+#value {
+  font-size: 2rem;
+}
+
+.btn {
+    height:70px;
+    width:200px;
+    font-size: 1rem;
+}
+
+.button-container {
+    padding: 20px;
+    font-size: 2rem;
+    cursor: pointer;
+}
